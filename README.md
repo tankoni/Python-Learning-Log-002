@@ -1,2 +1,2 @@
 # Python-Learning-Log-002
-Python learning log
+These are my python lesson's code
